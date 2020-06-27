@@ -1,2 +1,2 @@
-# glitch-mongoose
-MongoDB basics built using glitch
+FCC Mongo & Mongoose Challenges
+===============================
